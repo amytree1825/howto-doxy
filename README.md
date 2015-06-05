@@ -11,3 +11,9 @@ Learn how to create-add a list-set of new user accounts using entropy in indiana
 * David
 * Bryon
 * Timmy
+* Dan
+* Geoff
+* Adam
+* Scott
+* Steve
+* Frankie
